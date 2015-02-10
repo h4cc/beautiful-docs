@@ -1,9 +1,9 @@
 {
-  "name":        "beautiful-docs",
-  "version":     "1.0.3",
+  "name":        "h4cc-beautiful-docs",
+  "version":     "1.0.4",
   "author":      "Maxime Bouroumeau-Fuseau (http://maximebf.com)",
   "keywords":    "docs markdown",
-  "description": "A documentation viewer based on markdown files",
+  "description": "WORKING FORK WITH Fix for less library. A documentation viewer based on markdown files",
   "licenses":     [{
     "type":       "MIT",
     "url":        "http://github.com/maximebf/beautiful-docs/raw/master/LICENSE"

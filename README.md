@@ -1,3 +1,16 @@
+# WARNING
+
+This fork is a fix for the less problem.
+You can install this with:
+
+```
+{
+  "devDependencies": {
+    "h4cc-beautiful-docs": "git+ssh://git@github.com:h4cc/beautiful-docs.git"
+  }
+}
+```
+
 # Beautiful docs
 
 Beautiful docs is a documentation viewer based on markdown files.  
